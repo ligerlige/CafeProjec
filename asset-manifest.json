@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CafeProjec/static/css/main.f855e6bc.css",
+    "main.js": "/CafeProjec/static/js/main.7fc0b95f.js",
+    "static/js/453.bf5002b9.chunk.js": "/CafeProjec/static/js/453.bf5002b9.chunk.js",
+    "static/media/logo.svg": "/CafeProjec/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CafeProjec/index.html",
+    "main.f855e6bc.css.map": "/CafeProjec/static/css/main.f855e6bc.css.map",
+    "main.7fc0b95f.js.map": "/CafeProjec/static/js/main.7fc0b95f.js.map",
+    "453.bf5002b9.chunk.js.map": "/CafeProjec/static/js/453.bf5002b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7fc0b95f.js"
+  ]
+}
